@@ -1,8 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## What is Crypt-ID?
+**Cryptid, noun**: An animal claimed to exist but never proven to exist.
 
-![[Pasted image 20241224110744.png]]
+Crypt-ID is a blog dedicated to my work in technology, with an emphasis on privacy, security, and productivity.
+
+I'm deeply passionate about **crypt**ography, **id**entity, and studying the cryptids of the digital world.
